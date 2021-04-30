@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://snek-blog.onrender.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5

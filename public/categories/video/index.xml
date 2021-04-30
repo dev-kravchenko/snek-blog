@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Video on Victor Kravcheko</title>
-    <link>https://example.com/categories/video/</link>
+    <link>https://snek-blog.onrender.com/categories/video/</link>
     <description>Recent content in Video on Victor Kravcheko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/video/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://snek-blog.onrender.com/categories/video/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BW</title>
-      <link>https://example.com/p/bw/</link>
+      <link>https://snek-blog.onrender.com/p/bw/</link>
       <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/p/bw/</guid>
+      <guid>https://snek-blog.onrender.com/p/bw/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Mamiya 645 Pro Repairment</title>
-      <link>https://example.com/p/mamiya-645-pro-repairment/</link>
+      <link>https://snek-blog.onrender.com/p/mamiya-645-pro-repairment/</link>
       <pubDate>Wed, 28 Apr 2021 12:46:40 +0200</pubDate>
       
-      <guid>https://example.com/p/mamiya-645-pro-repairment/</guid>
+      <guid>https://snek-blog.onrender.com/p/mamiya-645-pro-repairment/</guid>
       <description>Свинья грязи найдет.
 Вот и я купил себе б/у Mamiya 645 pro на ebay и получил тушку со сломанным механизмом остановки зеркала. Пришлось ремонтировать самому.
   </description>
@@ -29,10 +29,10 @@
     
     <item>
       <title>Дюны</title>
-      <link>https://example.com/p/%D0%B4%D1%8E%D0%BD%D1%8B/</link>
+      <link>https://snek-blog.onrender.com/p/%D0%B4%D1%8E%D0%BD%D1%8B/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/p/%D0%B4%D1%8E%D0%BD%D1%8B/</guid>
+      <guid>https://snek-blog.onrender.com/p/%D0%B4%D1%8E%D0%BD%D1%8B/</guid>
       <description>Свинья грязи найдет.
 Вот и я купил себе б/у Mamiya 645 pro на ebay и получил тушку со сломанным механизмом остановки зеркала. Пришлось ремонтировать самому.
   </description>
