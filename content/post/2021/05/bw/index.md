@@ -1,6 +1,6 @@
 ---
 author: Victor Kravchenko
-title: Black & Whide
+title: Black & White
 date: 2021-04-30
 description: Бессмысленный и беспощадный
 categories:
