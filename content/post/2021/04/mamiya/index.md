@@ -1,7 +1,7 @@
 ---
 author: Victor Kravchenko
 title: Mamiya 645 Pro Repairment
-date: 2021-04-29
+date: 2021-03-12
 description: Как я свою свинку лечил / Mamiya 645 pro mirror stop replacement
 categories:
     - DIY
