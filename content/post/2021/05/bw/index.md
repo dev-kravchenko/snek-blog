@@ -8,6 +8,7 @@ categories:
 tags:
     - Ilford xp2 400
     - Nikon FM10
+    - 35mm
 
 image: images/post-preview.jpg
 ---

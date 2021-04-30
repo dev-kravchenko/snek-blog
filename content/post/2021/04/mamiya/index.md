@@ -11,7 +11,8 @@ tags:
     - DIY
     - Mamiya 645 pro
     - Kodak Portra 400
-    - Fuji H400
+    - Fujicolor Pro 400H
+    - 120
 
 image: images/post-preview.jpg
 ---
