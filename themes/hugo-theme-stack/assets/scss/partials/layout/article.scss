@@ -91,8 +91,8 @@
 
                     @media (orientation: portrait) {
                         @media (min-height: $on-tablet) {
-                            max-width: 70vw;
-                            height: auto;
+                            max-height: 70vw;
+                            width: auto;
                         }
                     }
                 }
