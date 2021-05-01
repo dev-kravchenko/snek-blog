@@ -15,8 +15,6 @@ image: images/post-preview.jpg
 
 ![](images/bw-00001.jpg) 
 
-![](images/bw-00001-copy.jpg)
-
 ![](images/bw-00002.jpg) 
 
 ![](images/bw-00003.jpg) 

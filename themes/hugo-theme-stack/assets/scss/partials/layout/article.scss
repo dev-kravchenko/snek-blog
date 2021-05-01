@@ -74,6 +74,13 @@
             img {
                 max-width: 100%;
                 height: auto;
+
+                &[orientation=p] {
+                    @media (min-width: $on-desktop) {
+                        max-height: 70vh;
+                        width: auto;
+                    }
+                }
             }
         }
 

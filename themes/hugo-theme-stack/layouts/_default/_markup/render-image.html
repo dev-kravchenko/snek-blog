@@ -14,12 +14,16 @@
 				{{- $Srcset = printf "%s 480w, %s 1024w" $small.RelPermalink $big.RelPermalink -}}
 			{{- end -}}
 			
+			{{ $orientation := cond (ge $Width $Height) "l" "p" }}
+
 			<img src="{{ $Permalink }}"
 				{{ with $Srcset }}srcset="{{ . }}"{{ end }}
 				width="{{ $Width }}"
 				height="{{ $Height }}"
 				loading="lazy"
-				{{ with $alt }}alt="{{ . }}"{{ end }}>
+				{{ with $alt }}alt="{{ . }}"{{ end }}
+				orientation="{{ $orientation }}"
+				>
 		</a>
 		{{ with $alt }}
 		<figcaption>{{ . | markdownify }}</figcaption>
