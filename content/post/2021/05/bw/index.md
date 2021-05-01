@@ -10,7 +10,7 @@ tags:
     - Nikon FM10
     - 35mm
 
-image: images/post-preview.jpg
+image: images/bw-00030.jpg
 ---
 
 ![](images/bw-00001.jpg) 
@@ -74,8 +74,3 @@ image: images/post-preview.jpg
 
 ![](images/bw-00037.jpg)
 ![](images/bw-00038.jpg)
-
-<!-- for i in $(seq 1 99)
-do
-	printf '![](images/bw-000%d.jpg)\n' "$i"
-done -->
