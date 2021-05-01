@@ -23,7 +23,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: 🐍 
 
     footer:
         since: 2021
@@ -70,7 +70,7 @@ params:
             limit: 5
 
         tagCloud:
-            limit: 10
+            limit: 20
 
     opengraph:
         twitter:
