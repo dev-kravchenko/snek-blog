@@ -56,7 +56,7 @@
                 img {
                     height: auto;
                     width: 100%;
-                    max-height: 50vh;
+                    max-height: 60vh;
                     object-fit: cover;
                 }
             }
@@ -79,6 +79,21 @@
                     @media (min-width: $on-desktop) {
                         max-height: 70vh;
                         width: auto;
+                    }
+
+                    @media (min-width: $on-tablet) {
+
+                        @media (orientation: landscape) {
+                            max-height: 80vh;
+                            width: auto;
+                        }
+                    }
+
+                    @media (orientation: portrait) {
+                        @media (min-height: $on-tablet) {
+                            max-width: 70vw;
+                            height: auto;
+                        }
                     }
                 }
             }
