@@ -15,11 +15,12 @@ image: images/post-preview.jpg
 
 ![](images/bw-00001.jpg) 
 
-![](images/bw-00001-copy.jpg) 
+![](images/bw-00001-copy.jpg)
 
 ![](images/bw-00002.jpg) 
 
 ![](images/bw-00003.jpg) 
+
 ![](images/bw-00004.jpg) 
 
 ![](images/bw-00005.jpg)
@@ -27,6 +28,7 @@ image: images/post-preview.jpg
 ![](images/bw-00006.jpg)
 
 ![](images/bw-00007.jpg)
+
 ![](images/bw-00008.jpg)
 
 ![](images/bw-00009.jpg)
