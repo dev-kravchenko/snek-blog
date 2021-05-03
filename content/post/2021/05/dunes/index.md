@@ -1,6 +1,7 @@
 ---
 author: Victor Kravchenko
 title: Дюны
+slug: dunes
 date: 2021-05-03
 description: Сказка про то, как я оленей искал
 categories:
