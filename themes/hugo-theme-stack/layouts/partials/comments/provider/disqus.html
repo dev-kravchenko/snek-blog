@@ -1,6 +1,8 @@
-<div class="disqus-container">
-    {{ template "_internal/disqus.html" . }}
-</div>
+{{ if not .Params.noComment }}
+    <div class="disqus-container">
+        {{ template "_internal/disqus.html" . }}
+    </div>
+{{ end }}
 
 <style>
     .disqus-container {
