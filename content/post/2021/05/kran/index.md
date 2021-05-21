@@ -11,7 +11,7 @@ tags:
     - Nikon FM10
     - Nikon F80
     - iPhone 12
-    - Kodak Portra 400
+    - Kodak Portra 160
     - Fujicolor C200
 
 image: images/kran-00001.jpg
