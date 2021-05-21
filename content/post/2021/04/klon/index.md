@@ -18,3 +18,4 @@ image: images/post-preview.png
 
 {{< youtube tSvfIR_OpHc >}}
 
+🐍 
