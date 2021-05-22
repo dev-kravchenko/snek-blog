@@ -6,7 +6,7 @@ title: Victor Kravchenko
 timeout: 360000
 
 # Change it to your Disqus shortname before using
-disqusShortname: snek-sh
+disqusShortname:
 
 # GA Tracking ID
 googleAnalytics: G-YE21VC4TFE
