@@ -124,9 +124,9 @@ image: images/zomer-zokat-00013.jpg
 Вот, кстати, для сравнения, разница между 135 и 120 форматами с примерно равнозначными объективами. 
 Снимал на мусорке с выдержкой около секунды, так что не обезсудьте.
 
-![Portra 400 | 150mm | 120](images/zomer-zokat-00023.jpg)
+![Portra 400 | 55mm | 120](images/zomer-zokat-00023.jpg)
 
-![UltraMax 400 | 60mm | 135](images/zomer-zokat-00024.jpg)
+![UltraMax 400 | 35mm | 135](images/zomer-zokat-00024.jpg)
 
 А дома меня ждал мой красноглазый конь:)
 
