@@ -13,7 +13,7 @@ tags:
     - Kodak Portra 400
     - Fujicolor Pro 400H
     - 120
-    - 35mm
+    - 135
 
 image: images/post-preview.jpg
 ---

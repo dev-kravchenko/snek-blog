@@ -13,7 +13,7 @@ tags:
     - iPhone 12
     - Kodak Portra 400
     - Kodak UltraMax 400
-    - 35mm
+    - 135
     - 120
 
 image: images/zomer-zokat-00013.jpg

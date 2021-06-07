@@ -12,7 +12,7 @@ tags:
     - Mamiya 645 pro
     - Kodak Portra 400
     - Kodak UltraMax 400
-    - 35mm
+    - 135
     - 120
 
 image: images/rem-00003.jpg

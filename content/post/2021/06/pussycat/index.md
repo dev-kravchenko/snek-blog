@@ -10,7 +10,7 @@ tags:
     - Nikon F80
     - Kodak Ektar 100
     - Fujicolor C200
-    - 35mm
+    - 135
 
 image: images/pussycat-00018.jpg
 ---
