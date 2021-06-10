@@ -2,7 +2,7 @@
 author: Victor Kravchenko
 title: REM
 slug: rem
-date: 2021-06-09
+date: 2021-06-10
 description: Нужно было чем-то добить ролик
 categories:
     - Photo
