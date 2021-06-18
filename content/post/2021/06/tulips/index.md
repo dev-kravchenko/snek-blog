@@ -102,4 +102,8 @@ image: images/tulip-fields-00011.jpg
 
 ![](images/tulip-fields-00019.jpg)
 
+Хотя, он больше по пионам.
+
+![](images/tulip-fields-00022.jpg)
+
 🐍 
