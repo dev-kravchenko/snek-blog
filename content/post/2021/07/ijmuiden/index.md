@@ -15,6 +15,7 @@ tags:
     - Kodak UltraMax 400
     - 135
     - 120
+    - Video
 
 image: images/ijmuiden-00010.jpg
 ---
