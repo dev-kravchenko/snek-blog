@@ -24,7 +24,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: 🐍 
+    favicon: img/snake.ico 
 
     footer:
         since: 2021
