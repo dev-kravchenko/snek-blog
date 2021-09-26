@@ -1,7 +1,7 @@
 ---
 author: Victor Kravchenko
 title: CineStill 800T vs Kodak Portra 800
-description: и немного про обработку после сканирования
+description: и про обработку после сканирования
 slug: cinestill800t-vs-portra800
 date: 2021-08-29
 categories:
