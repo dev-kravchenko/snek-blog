@@ -22,7 +22,7 @@ image: images/remembering-summer-june-cover.jpg
 
 На этот раз просто два ролика по порядку. Как есть, без каких-то особых историй.
 
-## UltraMax 400
+## Kodak UltraMax 400
 
 Кстати да, я тут понял, что это была последняя фотография на мой любимый 70-200, который был моим кормильцем еще с университета, а потом верой и правдой служил Кристине еще лет 5 после переезда.
 
@@ -81,7 +81,7 @@ Who watches the watchman?
 
 ![](images/remembering-summer-june-00021.jpg)
 
-## Portra 400
+## Kodak Portra 400
 
 Сонные мухи.
 ![](images/remembering-summer-june-00022.jpg)
