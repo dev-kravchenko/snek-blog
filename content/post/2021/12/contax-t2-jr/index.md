@@ -12,7 +12,7 @@ tags:
     - 135
     - Kodak Portra 160
     - Kodak UltraMax 400
-image: images/contax-t2-jr-cover.jpg
+image: images/contaxt2-jr-cover.jpg
 ---
 
 Чек, чек. Снэк на связи.
