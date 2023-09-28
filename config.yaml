@@ -1,4 +1,3 @@
-baseurl: https://snakeytales.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
