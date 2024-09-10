@@ -1,5 +1,4 @@
 resources/
 .hugo_build.lock
 .BridgeSort
-/content
 /public
