@@ -63,16 +63,15 @@ params:
             locale:
 
     widgets:
-        enabled:
-            - search
-            - tag-cloud
-            # - archives
-
-        archives:
-            limit: 5
-
-        tagCloud:
-            limit: 20
+        homepage:
+            - type: search
+              params:
+                  limit: 5
+            - type: tag-cloud
+              params:
+                  limit: 20
+        page:
+            - type: toc
 
     opengraph:
         twitter:
@@ -100,6 +99,11 @@ params:
             enabled: true
         content:
             enabled: true
+
+    imaging:
+        hint: photo
+        quality: 85
+        resampleFilter: lanczos
 
     enableEmoji: true
 
