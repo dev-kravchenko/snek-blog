@@ -37,12 +37,15 @@ image: images/remembering-summer-august-cover.jpg
 ![](images/remembering-summer-august-00002.jpg)
 
 Может быть магия чисел 2022 нас спасет? ~~Нет.~~
+
 ![](images/remembering-summer-august-00003.jpg)
 
 -- "Так, отвали. И не трогай мой домик."
+
 ![](images/remembering-summer-august-00004.jpg)
 
 -- "Разбурил таки, сука."
+
 ![](images/remembering-summer-august-00005.jpg)
 
 ![](images/remembering-summer-august-00006.jpg)

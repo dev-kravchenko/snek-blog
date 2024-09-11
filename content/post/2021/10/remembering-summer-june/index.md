@@ -35,25 +35,31 @@ image: images/remembering-summer-june-cover.jpg
 ![](images/remembering-summer-june-00002.jpg)
 
 Утятки плывут куда-то.
+
 ![](images/remembering-summer-june-00003.jpg)
 
 Й.
+
 ![](images/remembering-summer-june-00004.jpg)
 
 ![](images/remembering-summer-june-00005.jpg)
 
 Поезда приходят и уходят.
+
 ![](images/remembering-summer-june-00006.jpg)
 
 ![](images/remembering-summer-june-00007.jpg)
 
 А станция остается.
+
 ![](images/remembering-summer-june-00008.jpg)
 
 Вжух!
+
 ![](images/remembering-summer-june-00009.jpg)
 
 Самен родненький.
+
 ![](images/remembering-summer-june-00010.jpg)
 
 ![](images/remembering-summer-june-00011.jpg)
@@ -69,12 +75,15 @@ image: images/remembering-summer-june-cover.jpg
 ![](images/remembering-summer-june-00016.jpg)
 
 Че ты пыришь!? Че ты пыришь, а?
+
 ![](images/remembering-summer-june-00017.jpg)
 
 Если присмотреться, то можно найти Аленку, которую мне передала мама.
+
 ![](images/remembering-summer-june-00018.jpg)
 
 Who watches the watchman?
+
 ![](images/remembering-summer-june-00019.jpg)
 
 ![](images/remembering-summer-june-00020.jpg)
@@ -84,17 +93,21 @@ Who watches the watchman?
 ## Kodak Portra 400
 
 Сонные мухи.
+
 ![](images/remembering-summer-june-00022.jpg)
 
 Это я сонный просто, а не то, что ряху отъел. К обеду уже отходит (я просто так себя успокаиваю).
+
 ![](images/remembering-summer-june-00023.jpg)
 
 Прикидывается святошей.
+
 ![](images/remembering-summer-june-00024.jpg)
 
 У Ани с Васей на крыше💔
 
 Тут даже и говорить нечего. Просто смотреть и вспоминать как было тепло и хорошо.
+
 ![](images/remembering-summer-june-00025.jpg)
 
 ![](images/remembering-summer-june-00026.jpg)
@@ -110,20 +123,25 @@ Who watches the watchman?
 ![](images/remembering-summer-june-00031.jpg)
 
 Полосатый мир.
+
 ![](images/remembering-summer-june-00032.jpg)
 
 ![](images/remembering-summer-june-00033.jpg)
 
 Крапивка на закрытой дырке.
+
 ![](images/remembering-summer-june-00034.jpg)
 
 Крапивка на открытой дырке.
+
 ![](images/remembering-summer-june-00035.jpg)
 
 Хоум, свит хоум.
+
 ![](images/remembering-summer-june-00036.jpg)
 
 Довольная качка пришла с тренировки.
+
 ![](images/remembering-summer-june-00037.jpg)
 
 ![](images/remembering-summer-june-00038.jpg)
@@ -131,12 +149,15 @@ Who watches the watchman?
 ![](images/remembering-summer-june-00039.jpg)
 
 Что делать, если поймал ящерку?
+
 ![](images/remembering-summer-june-00040.jpg)
 
 Правильно. Положить ее себе на лицо. Ничего умнее от меня не ждите.
+
 ![](images/remembering-summer-june-00041.jpg)
 
 Все себе летят куда-то: и облака, и птица, и поезд.
+
 ![](images/remembering-summer-june-00042.jpg)
 
 А я пойду ужинать. Пака.

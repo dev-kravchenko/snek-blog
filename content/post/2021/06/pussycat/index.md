@@ -26,6 +26,7 @@ image: images/pussycat-00018.jpg
 Даже разрешил сделать с ним фотографию.
 
 Чисто, кусок рыжего меха.
+
 ![](images/pussycat-00004.jpg)
 
 Только радуги не хватает.
@@ -33,9 +34,11 @@ image: images/pussycat-00018.jpg
 ![](images/pussycat-00005.jpg)
 
 Загогулина.
+
 ![](images/pussycat-00006.jpg)
 
 Кристина радуется первым дням тепла.
+
 ![](images/pussycat-00007.jpg)
 
 Вечерний рейд по району.
@@ -56,12 +59,15 @@ image: images/pussycat-00018.jpg
 Кстати о тюльпанах, надо посмотреть, получилось ли видео с гоупрохи. Может получится наскребсти немного на ролик.
 
 Здесь мы как раз едем с тюльпановых полей.
+
 ![](images/pussycat-00013.jpg)
 
 Решают вопросики.
+
 ![](images/pussycat-00014.jpg)
 
 Грыб.
+
 ![](images/pussycat-00015.jpg)
 
 ![](images/pussycat-00016.jpg)
@@ -75,6 +81,7 @@ image: images/pussycat-00018.jpg
 ![](images/pussycat-00019.jpg)
 
 Виктор — кривожоп. Менял ролик, и переключил камеру в мануал. Хорошо, что хоть что-то получилось.
+
 ![](images/pussycat-00020.jpg)
 
 Все кошечки в сборе.
@@ -89,6 +96,7 @@ image: images/pussycat-00018.jpg
 ![](images/pussycat-00023.jpg)
 
 Такой вот был апрель. 
+
 ![](images/pussycat-00024.jpg)
 
 Пака.

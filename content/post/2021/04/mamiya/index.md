@@ -29,12 +29,15 @@ image: images/post-preview.jpg
 ## Фото
 
 Плохо:
+
 ![](images/mamiya-645-00003.jpg)
 
 А вот теперь хорошо:
+
 ![](images/mamiya-645-00002.jpg)
 
 Битва форматов:
+
 ![Мыльница](images/mamiya-645-00001.jpg)
 ![645@55mm](images/mamiya-645-00005.jpg)
 

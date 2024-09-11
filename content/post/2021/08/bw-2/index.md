@@ -53,6 +53,7 @@ image: images/bw-2-cover.jpg
 ![](images/bw-2-00012.jpg)
 
 Мятые хомяки.
+
 ![](images/bw-2-00013.jpg)
 ![](images/bw-2-00014.jpg)
 
@@ -76,6 +77,7 @@ image: images/bw-2-cover.jpg
 ![](images/bw-2-00021.jpg)
 
 Не опять, а снова. Sloterdijk station во всей своей закатной красе.
+
 ![](images/bw-2-00022.jpg)
 
 <!-- ![](images/bw-2-00023.jpg) -->
@@ -88,6 +90,7 @@ image: images/bw-2-cover.jpg
 
 Как же меня бесит этот пакет, который я не увидел сразу.
 Но решил не шопить, пусть останется как напоминание о моем ~~долбоеби~~перфекционизме.
+
 ![](images/bw-2-00027.jpg)
 
 <!-- ![](images/bw-2-00028.jpg) -->

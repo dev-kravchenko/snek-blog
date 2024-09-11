@@ -27,6 +27,7 @@ image: images/remembering-summer-july-cover.jpg
 Но мы особо никуда не совались, пока не получили обе дозы вакцины.
 
 Поэтому просто шатались по району.
+
 ![](images/remembering-summer-july-00001.jpg)
 
 ![](images/remembering-summer-july-00002.jpg)
@@ -38,6 +39,7 @@ image: images/remembering-summer-july-cover.jpg
 ![](images/remembering-summer-july-00005.jpg)
 
 На завтрак в Самен!
+
 ![](images/remembering-summer-july-00006.jpg)
 
 А тут я решил сменить свой обычный Ilford XP2 на Kodak T-Max и мы поехали в IJmuiden. Вторая попытка нарваться на красивый закат. Но опять не вышло как-то так себе. 
@@ -49,6 +51,7 @@ image: images/remembering-summer-july-cover.jpg
 ![](images/remembering-summer-july-00009.jpg)
 
 Мордочка❤️
+
 ![](images/remembering-summer-july-00010.jpg)
 
 Оооо. А тут мы вообще прибалдели. За все это время локдаунов-шмокдаунов у нас просто уже из памяти стерлось то, что можно гонять в кафехи и вообще вести какую-то социальную жизнь.
@@ -74,11 +77,13 @@ image: images/remembering-summer-july-cover.jpg
 ![](images/remembering-summer-july-00023.jpg)
 
 "Витя, выше подбородок!". Угу.
+
 ![](images/remembering-summer-july-00024.jpg)
 
 ![](images/remembering-summer-july-00025.jpg)
 
 Сокровища (это если тебе лет 5 и ты в Беларуси).
+
 ![](images/remembering-summer-july-00026.jpg)
 
 Идеальная линия горизонта через мои ноги.

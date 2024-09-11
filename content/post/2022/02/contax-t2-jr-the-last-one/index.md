@@ -42,6 +42,7 @@ image: images/contax-t2-jr-the-last-one-cover.jpg
 ![](images/contax-t2-jr-the-last-one-00007.jpg)
 
 Кто у нас тут? 😽
+
 ![](images/contax-t2-jr-the-last-one-00009.jpg)
 ![](images/contax-t2-jr-the-last-one-00008.jpg)
 

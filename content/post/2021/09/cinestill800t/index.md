@@ -73,6 +73,7 @@ image: images/cyperpuck-cover.jpg
 ![](images/cyperpuck-00019.jpg)
 
 You shall not pass!
+
 ![](images/cyperpuck-00020.jpg)
 
 В этот момент звонит мне Кристина: "Ты че, пес, 12 ночи, где ты шляешься?". Слова были другие, конечно, но основной посыл был такой. 
@@ -80,6 +81,7 @@ You shall not pass!
 Поэтому эти два кадра я сделал не сходя с одного места, просто повернул камеру в другой бок.
 
 Клац, клац, пора спац.
+
 ![](images/cyperpuck-00021.jpg)
 
 ![](images/cyperpuck-00022.jpg)

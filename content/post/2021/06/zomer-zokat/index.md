@@ -98,6 +98,7 @@ image: images/zomer-zokat-00013.jpg
 ![](images/zomer-zokat-00015.jpg)
 
 Метаморфозы природы. Сила света. А разницы то 10 минут между кадрами.
+
 ![](images/zomer-zokat-00016.jpg)
 ![](images/zomer-zokat-00017.jpg)
 
