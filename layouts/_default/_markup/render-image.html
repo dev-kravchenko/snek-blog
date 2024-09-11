@@ -20,7 +20,7 @@
 		{{- if (default true .Page.Site.Params.imageProcessing.content.enabled) -}}
 			{{- $small := $image.Resize `1200x` -}}
 			{{- $big := $image.Resize `2048x` -}}
-			{{- $Srcset = printf `%s 480w, %s 1024w` $small.RelPermalink $big.RelPermalink -}}
+			{{- $Srcset = printf `%s 1200w, %s 2048w` $small.RelPermalink $big.RelPermalink -}}
 		{{- end -}}
 	{{- end -}}
 {{- end -}}
