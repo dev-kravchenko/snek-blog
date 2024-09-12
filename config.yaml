@@ -1,9 +1,9 @@
 baseURL: https://www.snakeytales.com
-languageCode: en-us
+languageCode: ru-RU
 theme: hugo-theme-stack
 pagination:
     pagerSize: 5
-title: Victor Kravchenko
+title: Виктор Кравченко
 timeout: 360000
 
 # Change it to your Disqus shortname before using
@@ -14,7 +14,7 @@ googleAnalytics: G-YE21VC4TFE
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, es, de
-DefaultContentLanguage: en
+DefaultContentLanguage: ru
 
 permalinks:
     post: /p/:slug/
@@ -36,7 +36,7 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 
+        emoji: 🐍
         subtitle: Снэк шш-шшш
         avatar:
             local: true
@@ -110,7 +110,7 @@ params:
 menu:
     main:
         - identifier: home
-          name: Home
+          name: На главную
           url: /
           weight: -100
           params:
