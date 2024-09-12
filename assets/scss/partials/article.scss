@@ -24,6 +24,15 @@
                 width: 100%;
                 height: auto;
                 object-fit: cover;
+
+                &[orientation=p] {
+                    aspect-ratio: 4 / 5;
+                    max-height: 80vh;
+                }
+
+                &[orientation=l] {
+                    aspect-ratio: 5 / 4;
+                }
             }
         }
 
