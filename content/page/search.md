@@ -5,8 +5,9 @@ layout: "search"
 outputs:
     - html
     - json
-<!-- menu:
+menu:
     main:
-        weight: -60
-        pre: search -->
+        weight: -70
+        params:
+            icon: search
 ---

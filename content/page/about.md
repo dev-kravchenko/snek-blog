@@ -7,10 +7,12 @@ aliases:
   - about-hugo
   - contact
 noComment: true
-menu:
-    main: 
-        weight: -90
-        pre: user 
+
+#menu:
+#    main: 
+#        weight: -90
+#        params
+#            icon: user 
 ---
 
 [Instagram](https://www.instagram.com/wsnake/)

@@ -49,7 +49,7 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
+        enabled: false
         provider: disqus
 
         utterances:
@@ -116,7 +116,29 @@ menu:
           name: Home
           url: /
           weight: -100
-          pre: home
+          params:
+            icon: home
+    social:
+        - identifier: instagram
+          name: Instagram
+          url: https://instagram.com/wsnake
+          weight: 100
+          params:
+              icon: brand-instagram
+
+        - identifier: youtube
+          name: Youtube
+          url: https://www.youtube.com/@snakeytales
+          weight: 200
+          params:
+              icon: brand-youtube      
+
+        - identifier: twitter
+          name: Twitter
+          url: https://twitter.com/ws_whitesnake
+          weight: 300
+          params:
+              icon: brand-twitter
 
 related:
     includeNewer: true
