@@ -28,28 +28,30 @@ image: images/cinestill800t-vs-portra800-cover.jpg
 
 Но сначала, я бы просто хотел показать разницу между CineStill 800T и Kodak Portra 800. Понятно, что первая рассчитана на 3200K, а вторая на 5500/5700K. Но, раз уж я сделал сравнение с одной и той же экспопарой (только задники менял), то почему бы и не поделиться.
 
-#### Сцена 1
+### Сцена 1
 ![CineStill 800T](images/cinestill800t-vs-portra800-00001.jpg)
 ![Kodak Portra 800](images/cinestill800t-vs-portra800-00002.jpg)
 
-#### Сцена 2
+### Сцена 2
 ![CineStill 800T](images/cinestill800t-vs-portra800-00003.jpg)
 ![Kodak Portra 800](images/cinestill800t-vs-portra800-00004.jpg)
 
-#### Сцена 3
+### Сцена 3
 
 Тут я, правда, для снимка на кодак немного подкрутил бб в теплую сторону, мне так больше понравилось.
 
 Можно ли так делать? Смотрите ниже сравнение Frontier и Noritsu.
+
 ![CineStill 800T](images/cinestill800t-vs-portra800-00005.jpg)
 ![Kodak Portra 800](images/cinestill800t-vs-portra800-00006.jpg)
 
-#### Сцена 4
+### Сцена 4
 Тут у меня уже закончился ролик в мамии, поэтому снимал уже на Nikon F80@35mm, что более-менее одинаково по перспективе с 55мм на 645.
+
 ![CineStill 800T (135)](images/cinestill800t-vs-portra800-00007.jpg)
 ![Kodak Portra 800 (120)](images/cinestill800t-vs-portra800-00008.jpg)
 
-#### Сцена 5
+### Сцена 5
 ![CineStill 800T (135)](images/cinestill800t-vs-portra800-00009.jpg)
 ![Kodak Portra 800 (120)](images/cinestill800t-vs-portra800-00010.jpg)
 
@@ -66,14 +68,14 @@ image: images/cinestill800t-vs-portra800-cover.jpg
 
 Так вот, это спасает меня от потери деталей в тенях. А самые яркие участки на фото в безопасности, т.к. интенсивность света не такая большая, как при дневном солнечном свете.
 
-#### Сцена 1
+### Сцена 1
 
 ![Конвертация по умолчанию.](images/cinestill800t-vs-portra800-00016.jpg)
 
 ![Убрал немного яркости и добавил теней. ББ сдвинул немного в синеву.](images/cinestill800t-vs-portra800-00017.jpg)
 
 
-#### Сцена 2
+### Сцена 2
 
 ![Конвертация по умолчанию.](images/cinestill800t-vs-portra800-00018.jpg)
 
