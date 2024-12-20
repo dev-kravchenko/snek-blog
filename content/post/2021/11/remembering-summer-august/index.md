@@ -24,8 +24,8 @@ image: images/remembering-summer-august-cover.jpg
 
 Присаживайтесь поудобнее. Будет много фотографий и офигительных историй.
 
-Июнь [тут](https://www.snek.sh/p/remembering-summer/).
-Июль [тут](https://www.snek.sh/p/remembering-summer-july/).
+Июнь [тут](../remembering-summer/).
+Июль [тут](../remembering-summer-july/).
 
 Живешь такой себе красивый.
 
