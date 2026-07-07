@@ -29,7 +29,7 @@ image: images/tired-of-war-cover.jpg
 
 Но, как говорится: Everyone should make weird things nobody else cares about, it's good for you.
 
-{{< twitter user="datassette" id="1248591733778243585" >}}
+{{< x user="datassette" id="1248591733778243585" >}}
 
 Ну раз гуд, значит буду:)
 

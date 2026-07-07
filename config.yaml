@@ -1,5 +1,5 @@
 baseURL: https://www.snakeytales.com
-languageCode: ru-RU
+locale: ru-RU
 theme: hugo-theme-stack
 pagination:
     pagerSize: 5
@@ -38,9 +38,7 @@ params:
     sidebar:
         emoji: 🐍
         subtitle: Снэк шш-шшш
-        avatar:
-            local: true
-            src: img/avatar.jpg
+        avatar: img/avatar.jpg
 
     article:
         math: false
@@ -71,7 +69,7 @@ params:
             - type: toc
 
     opengraph:
-        twitter:
+        x:
             # Your Twitter username
             site:
 
@@ -130,7 +128,7 @@ menu:
           params:
               icon: brand-youtube      
 
-        - identifier: twitter
+        - identifier: x
           name: Twitter
           url: https://twitter.com/ws_whitesnake
           weight: 300
